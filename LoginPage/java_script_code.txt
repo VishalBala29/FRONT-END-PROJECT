@@ -1,6 +1,6 @@
-// let name=document.getElementById("Sai Pavan").palceholder="Sai Pavan";
+// let name=document.getElementById("Vishal").palceholder="Vishal";
 let in_name=document.getElementById("naming");
-// let password=document.getElementById("pasupuleti").palceholder="pasupuleti";
+// let password=document.getElementById("Vishalbala").palceholder="Vishalbala";
 let in_pass=document.getElementById("pass");
 let btn=document.querySelector("button");
 let res=document.querySelector("#con");
